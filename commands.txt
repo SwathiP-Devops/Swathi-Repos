@@ -1,0 +1,23 @@
+apt update
+apt install apache2 -y
+apt net-tools
+7  cd .ssh
+    8  ls
+    9  cat id_rsa.pub
+   10  git status
+   11  apt update
+   12  apt install apache2 -y
+   13  cd /var/www/html
+   14  ls
+   15  echo "I love India" > index.html
+   16  cat index.html
+   17  systemctl start apache2
+   18  ifconfig -a
+   19  ipconfig
+   20  ifconfig
+   21  apt install net-tools
+   22  ifconfig
+   23  cd
+   24  mkdir devops
+   25  cd devops
+   26  vi commands.txt
