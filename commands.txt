@@ -21,3 +21,5 @@ apt net-tools
    24  mkdir devops
    25  cd devops
    26  vi commands.txt
+#how to check network IP
+ifconfig
